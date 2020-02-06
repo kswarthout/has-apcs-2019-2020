@@ -39,7 +39,12 @@ Additionally we'll need to provide:
 ![Create New Project](https://raw.github.com/kswarthout/has-apcs-2019-2020/master/GameOfLife/img/guide_1_create_new_project.PNG?raw=true)
 
 **Add the following files to your project:**
-- [Life.java]()
-- [Play.java]()
+- [Life.java](https://raw.github.com/kswarthout/has-apcs-2019-2020/master/GameOfLife/src/Life.java)
+- [Play.java](https://raw.github.com/kswarthout/has-apcs-2019-2020/master/GameOfLife/src/Play.java)
 
-**You can test your code by running the program's main method in Play.java**
+**You can test your code by running the program's main method in Play.java**  
+
+Here is sample output from my program. Notice I've added a border to the grid:  
+
+![Console Output](https://raw.github.com/kswarthout/has-apcs-2019-2020/master/GameOfLife/img/console_output.gif)
+
