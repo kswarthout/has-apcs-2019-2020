@@ -1,0 +1,9 @@
+public class Arrays2D {
+  
+  public static void main(string[] args){
+    int[][] ticketInfo;
+    String[][] seatingChart;
+    System.out.println(ticketInfo);
+  }
+  
+}
